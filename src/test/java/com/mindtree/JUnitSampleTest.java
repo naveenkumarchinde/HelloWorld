@@ -26,6 +26,6 @@ public class JUnitSampleTest {
 
 	@Test
 	public void equalToTest() {
-		assertThat(verify, is("nk"));
+		assertThat(verify, is("abc"));
 	}
 }
