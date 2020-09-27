@@ -4,7 +4,7 @@
   <artifactId>HelloWorld</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <name>HelloWorld</name>
-  	<description>Sample to generate HelloWorld and JUnit Reports.</description>
+  	<description>Sample to generate HelloWorld and JUnit Reports..</description>
 
 	<dependencies>
 		<dependency>
