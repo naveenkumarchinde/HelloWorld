@@ -21,7 +21,7 @@ public class JUnitSampleTest {
 
 	@Test
 	public void assertTrueTest() {
-		assertTrue(true);
+		assertTrue(false);
 	}
 
 	@Test
